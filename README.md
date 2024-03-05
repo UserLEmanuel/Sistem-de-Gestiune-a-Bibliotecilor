@@ -1,3 +1,4 @@
-# Sistem-de-Gestiune-a-Bibliotecilor
+# Library Management System
 Public university project
-[BazeDeDate (1).pdf](https://github.com/UserLEmanuel/Sistem-de-Gestiune-a-Bibliotecilor/files/13850498/BazeDeDate.1.pdf)
+[Library Management System.pdf](https://github.com/UserLEmanuel/Sistem-de-Gestiune-a-Bibliotecilor/files/14499428/Library.Management.System.pdf)
+
